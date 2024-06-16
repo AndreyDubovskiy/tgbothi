@@ -1,4 +1,4 @@
 services:
   mybot:
-    image: tgbot
+    image: tgbothi
     restart: always
